@@ -60,4 +60,4 @@ require (
 
 // replace github.com/jfrog/build-info-go => github.com/jfrog/build-info-go dev
 
-// replace github.com/jfrog/gofrog => github.com/jfrog/gofrog dev
+replace github.com/jfrog/gofrog => github.com/noyshabtay/gofrog v0.0.0-20240528123616-20d415665c0f
